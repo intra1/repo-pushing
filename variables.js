@@ -1,6 +1,6 @@
 var array = [1, 2, true, 'b', 'false', '1', false, { a: 'a' }, [1, 2, 3], function abs() {}]
 
-var quote = "Tom's book"
+var quote = "Bob's book"
 
 var odun = 1
 var dwa = 2
@@ -18,7 +18,7 @@ var second = array[8][1]
 var obj = {
 	one: 1,
 	bool: true,
-	quote: "Bob's books",
+	quote: "Tom's books",
 	address: {
 		street: 'Kotyka 7'
 	}
